@@ -16,7 +16,7 @@
   -  Experience in solve captchas and bypass anti-bot detection systems
   -  I've created crawlers to run on windows systems, virtual machines and via pipelines using kubernetes/docker
 
-- I make some automations using Python, such as: data analisys, organizing data, reading/writing files, sending e-mails, interact with apis and more!.
+- I make some automations using Python, such as: data analisys, organizing data, reading/writing files, sending e-mails, interact with apis, and more!.
 
 - I love games! And I've made some game projects using Unity Engine, I even had a project that was approved on steam greenlight some time ago but I never finalized the project. One day I still intend to be a game developer!
  <!----  The only project that I've published, was a mobile game project named [Labirinto Ultimate](https://drive.google.com/drive/folders/1D-EDrDgIj4I2Sm5f3nhSqaJLpv3uj4en?usp=share_link), using no-code application (code.appinventor.mit.edu).--->
