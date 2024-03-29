@@ -8,7 +8,6 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- I’m currently working in **[Kognita Lab](https://www.linkedin.com/company/kognita-lab/)** as **Python Developer** - Data Acquisition Team
 
 - Specialization in web crawling / web scraping to create data feeds
   -  5+ years of experience in web-scraping
